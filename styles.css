@@ -85,7 +85,7 @@ div {
 @media (orientation:landscape) {
   
   div {
-    width: calc(100vw/3);
+    width: calc(100vw/3 - 1vw);
     float: left;
   }
 
